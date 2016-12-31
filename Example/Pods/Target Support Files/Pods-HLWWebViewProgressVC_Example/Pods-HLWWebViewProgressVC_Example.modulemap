@@ -1,0 +1,6 @@
+framework module Pods_HLWWebViewProgressVC_Example {
+  umbrella header "Pods-HLWWebViewProgressVC_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

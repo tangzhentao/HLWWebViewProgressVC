@@ -1,0 +1,16 @@
+PODS:
+  - HLWWebViewProgressVC (0.1.0)
+
+DEPENDENCIES:
+  - HLWWebViewProgressVC (from `../`)
+
+EXTERNAL SOURCES:
+  HLWWebViewProgressVC:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HLWWebViewProgressVC: 1304477aafc4e5f65cb4013b886f217e0d0637c5
+
+PODFILE CHECKSUM: b311b759f62015f2d4d45f5607eb19c53b8b4fb3
+
+COCOAPODS: 1.2.0.beta.3

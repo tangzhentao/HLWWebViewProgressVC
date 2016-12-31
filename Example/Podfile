@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HLWWebViewProgressVC_Example' do
+  pod 'HLWWebViewProgressVC', :path => '../'
+
+  target 'HLWWebViewProgressVC_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
